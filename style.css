@@ -65,7 +65,7 @@ h1 {
 	line-height:1;
 	margin-top:100px;
 	color:#000000;
-	height:250px;
+	height:240px;
 }
 .header_left {
 	float:left;
@@ -89,9 +89,9 @@ h1 {
 }
 
 .pagetitle {
-	padding-bottom:10px;
+	padding-bottom:5px;
 	border-bottom:2px solid #EBEBEB;
-	margin-bottom:20px;
+	margin-bottom:5px;
 	font-size:18px;
 	font-family:Garamond, "Palatino Linotype", "Book Antiqua", Palatino, FreeSerif, serif;
 	font-weight:bold;
